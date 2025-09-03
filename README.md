@@ -1,28 +1,30 @@
-# Hi, I'm dmarklouil21 👋
+# 👋 Hi there, I'm **dmarklouil21**
 
-## About Me
-- **Student** passionate about coding and technology.
-- **Tech Stack:**  
-  - Python  
-  - React  
-  - Django  
-  - React Native  
-  - Node.js  
-  - Firebase  
+## 🚀 About Me
+- 🎓 Student passionate about **coding** and **technology**  
+- 💻 Exploring different tech stacks and always eager to learn  
 
-## Current Status
-- To be updated
+## 🛠️ Tech Stack
+- 🐍 Python  
+- ⚛️ React / React Native  
+- 🌐 Node.js  
+- 🐘 Django  
+- 🔥 Firebase  
 
-## Portfolio & Experience
-- Not yet (but working on it!)
+## 📌 Current Status
+- 🔄 Updating soon… stay tuned!
 
-## Interests
-- Solving coding problems on [Codewars](https://www.codewars.com/)
-- Always eager to learn new things
+## 💼 Portfolio & Experience
+- 🚧 Currently under construction — exciting things coming soon!  
 
-## Motto
-> "Start building. Get it working. Strive to improve it."
+## 🎯 Interests
+- 🧩 Solving coding challenges on [Codewars](https://www.codewars.com/)  
+- 📚 Learning and experimenting with new technologies  
+
+## ✨ Motto
+> *"Start building. Get it working. Strive to improve it."*
 
 ---
 
-Feel free to connect or check back for updates!
+📬 **Let’s connect!**  
+Feel free to reach out or check back for updates 🚀
