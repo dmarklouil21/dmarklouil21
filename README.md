@@ -1,5 +1,3 @@
-# 👋 Hi there, I'm **dmarklouil21**
-
 ## 🚀 About Me
 - 🎓 Student passionate about **coding** and **technology**  
 - 💻 Exploring different tech stacks and always eager to learn  
