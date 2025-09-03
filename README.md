@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm dmarklouil21 👋
 
-<!--
-**dmarklouil21/dmarklouil21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- **Student** passionate about coding and technology.
+- **Tech Stack:**  
+  - Python  
+  - React  
+  - Django  
+  - React Native  
+  - Node.js  
+  - Firebase  
 
-Here are some ideas to get you started:
+## Current Status
+- To be updated
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio & Experience
+- Not yet (but working on it!)
+
+## Interests
+- Solving coding problems on [Codewars](https://www.codewars.com/)
+- Always eager to learn new things
+
+## Motto
+> "Start building. Get it working. Strive to improve it."
+
+---
+
+Feel free to connect or check back for updates!
