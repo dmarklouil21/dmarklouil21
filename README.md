@@ -19,7 +19,6 @@
 - 🚧 Currently under construction — exciting things coming soon!  
 
 ## 🎯 Interests
-- 🧩 Solving coding challenges on [Codewars](https://www.codewars.com/)  
 - 📚 Learning and experimenting with new technologies  
 
 ## ✨ Motto
